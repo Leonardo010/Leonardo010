@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leonardo010
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Any Project
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me leo01022018@gmail.com
 
 <!---
